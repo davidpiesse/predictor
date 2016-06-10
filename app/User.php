@@ -6,21 +6,34 @@ use Illuminate\Foundation\Auth\User as Authenticatable;
 
 class User extends Authenticatable
 {
-    /**
-     * The attributes that are mass assignable.
-     *
-     * @var array
-     */
     protected $fillable = [
         'name', 'email', 'password',
     ];
 
-    /**
-     * The attributes that should be hidden for arrays.
-     *
-     * @var array
-     */
     protected $hidden = [
         'password', 'remember_token',
     ];
+
+    protected $appends = ['points'];
+
+    public function predictions(){
+        return $this->hasMany(Prediction::class);
+    }
+
+    public function getPointsAttribute(){
+        return $this->points();
+    }
+
+    public function points(){
+        $count = 0;
+        foreach($this->predictions as $prediction)
+            $count += $prediction->points;
+        return $count;
+    }
+
+    public static function standings(){
+//        dd($users);
+        return User::orderBy('points','desc');
+    }
+
 }

@@ -1,0 +1,441 @@
+[{
+  "day": 10,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "France",
+  "away_team": "Romania",
+  "home_iso": "fr",
+  "away_iso": "ro",
+  "venue": "Stade de France, Saint-Denis"
+}, {
+  "day": 11,
+  "month": 6,
+  "year": 2016,
+  "hour": 14,
+  "home_team": "Albania",
+  "away_team": "Switzerland",
+  "home_iso": "al",
+  "away_iso": "ch",
+  "venue": "Stade Bollaert-Delelis, Lens"
+}, {
+  "day": 11,
+  "month": 6,
+  "year": 2016,
+  "hour": 17,
+  "home_team": "Wales",
+  "away_team": "Slovakia",
+  "home_iso": "gb-wls",
+  "away_iso": "sk",
+  "venue": "Nouveau Stade de Bordeaux, Bordeaux"
+}, {
+  "day": 11,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "England",
+  "away_team": "Russia",
+  "home_iso": "gb-eng",
+  "away_iso": "rs",
+  "venue": "Stade Vélodrome, Marseille"
+}, {
+  "day": 12,
+  "month": 6,
+  "year": 2016,
+  "hour": 14,
+  "home_team": "Turkey",
+  "away_team": "Croatia",
+  "home_iso": "tr",
+  "away_iso": "hr",
+  "venue": "Parc des Princes, Paris"
+}, {
+  "day": 12,
+  "month": 6,
+  "year": 2016,
+  "hour": 17,
+  "home_team": "Poland",
+  "away_team": "Northern Ireland",
+  "home_iso": "pl",
+  "away_iso": "gb-nir",
+  "venue": "Allianz Riviera, Nice"
+}, {
+  "day": 12,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "Germany",
+  "away_team": "Ukraine",
+  "home_iso": "de",
+  "away_iso": "ua",
+  "venue": "Stade Pierre-Mauroy, Lille"
+}, {
+  "day": 13,
+  "month": 6,
+  "year": 2016,
+  "hour": 14,
+  "home_team": "Spain",
+  "away_team": "Czech Republic",
+  "home_iso": "es",
+  "away_iso": "cz",
+  "venue": "Stadium Municipal, Toulouse"
+}, {
+  "day": 13,
+  "month": 6,
+  "year": 2016,
+  "hour": 17,
+  "home_team": "Republic of Ireland",
+  "away_team": "Sweden",
+  "home_iso": "ie",
+  "away_iso": "se",
+  "venue": "Stade de France, Saint-Denis"
+}, {
+  "day": 13,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "Belgium",
+  "away_team": "Italy",
+  "home_iso": "be",
+  "away_iso": "it",
+  "venue": "Parc Olympique Lyonnais, Lyon"
+}, {
+  "day": 14,
+  "month": 6,
+  "year": 2016,
+  "hour": 17,
+  "home_team": "Austria",
+  "away_team": "Hungary",
+  "home_iso": "at",
+  "away_iso": "hu",
+  "venue": "Nouveau Stade de Bordeaux, Bordeaux"
+}, {
+  "day": 14,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "Portugal",
+  "away_team": "Iceland",
+  "home_iso": "pt",
+  "away_iso": "is",
+  "venue": "Stade Geoffroy-Guichard, Saint-Étienne"
+}, {
+  "day": 15,
+  "month": 6,
+  "year": 2016,
+  "hour": 14,
+  "home_team": "Russia",
+  "away_team": "Slovakia",
+  "home_iso": "rs",
+  "away_iso": "sk",
+  "venue": "Stade Pierre-Mauroy, Lille"
+}, {
+  "day": 15,
+  "month": 6,
+  "year": 2016,
+  "hour": 17,
+  "home_team": "Romania",
+  "away_team": "Switzerland",
+  "home_iso": "ro",
+  "away_iso": "ch",
+  "venue": "Parc des Princes, Paris"
+}, {
+  "day": 15,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "France",
+  "away_team": "Albania",
+  "home_iso": "fr",
+  "away_iso": "al",
+  "venue": "Stade Vélodrome, Marseille"
+}, {
+  "day": 16,
+  "month": 6,
+  "year": 2016,
+  "hour": 14,
+  "home_team": "England",
+  "away_team": "Wales",
+  "home_iso": "gb-eng",
+  "away_iso": "gb-wls",
+  "venue": "Stade Bollaert-Delelis, Lens"
+}, {
+  "day": 16,
+  "month": 6,
+  "year": 2016,
+  "hour": 17,
+  "home_team": "Ukraine",
+  "away_team": "Northern Ireland",
+  "home_iso": "ua",
+  "away_iso": "gb-nir",
+  "venue": "Parc Olympique Lyonnais, Lyon"
+}, {
+  "day": 16,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "Germany",
+  "away_team": "Poland",
+  "home_iso": "de",
+  "away_iso": "pl",
+  "venue": "Stade de France, Saint-Denis"
+}, {
+  "day": 17,
+  "month": 6,
+  "year": 2016,
+  "hour": 14,
+  "home_team": "Italy",
+  "away_team": "Sweden",
+  "home_iso": "it",
+  "away_iso": "se",
+  "venue": "Stadium Municipal, Toulouse"
+}, {
+  "day": 17,
+  "month": 6,
+  "year": 2016,
+  "hour": 17,
+  "home_team": "Czech Republic",
+  "away_team": "Croatia",
+  "home_iso": "cz",
+  "away_iso": "hr",
+  "venue": "Stade Geoffroy-Guichard, Saint-Étienne"
+}, {
+  "day": 17,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "Spain",
+  "away_team": "Turkey",
+  "home_iso": "es",
+  "away_iso": "tr",
+  "venue": "Allianz Riviera, Nice"
+}, {
+  "day": 18,
+  "month": 6,
+  "year": 2016,
+  "hour": 14,
+  "home_team": "Belgium",
+  "away_team": "Republic of Ireland",
+  "home_iso": "be",
+  "away_iso": "ei",
+  "venue": "Nouveau Stade de Bordeaux, Bordeaux"
+}, {
+  "day": 18,
+  "month": 6,
+  "year": 2016,
+  "hour": 17,
+  "home_team": "Iceland",
+  "away_team": "Hungary",
+  "home_iso": "is",
+  "away_iso": "hu",
+  "venue": "Stade Vélodrome, Marseille"
+}, {
+  "day": 18,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "Portugal",
+  "away_team": "Austria",
+  "home_iso": "pt",
+  "away_iso": "at",
+  "venue": "Parc des Princes, Paris"
+}, {
+  "day": 19,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "Romania",
+  "away_team": "Albania",
+  "home_iso": "ro",
+  "away_iso": "al",
+  "venue": "Parc Olympique Lyonnais, Lyon"
+}, {
+  "day": 19,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "Switzerland",
+  "away_team": "France",
+  "home_iso": "ch",
+  "away_iso": "fr",
+  "venue": "Stade Pierre-Mauroy, Lille"
+}, {
+  "day": 20,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "Russia",
+  "away_team": "Wales",
+  "home_iso": "rs",
+  "away_iso": "gb-wls",
+  "venue": "Stadium Municipal, Toulouse"
+}, {
+  "day": 20,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "Slovakia",
+  "away_team": "England",
+  "home_iso": "sk",
+  "away_iso": "gb-eng",
+  "venue": "Stade Geoffroy-Guichard, Saint-Étienne"
+}, {
+  "day": 21,
+  "month": 6,
+  "year": 2016,
+  "hour": 17,
+  "home_team": "Ukraine",
+  "away_team": "Poland",
+  "home_iso": "ua",
+  "away_iso": "pl",
+  "venue": "Stade Vélodrome, Marseille"
+}, {
+  "day": 21,
+  "month": 6,
+  "year": 2016,
+  "hour": 17,
+  "home_team": "Northern Ireland",
+  "away_team": "Germany",
+  "home_iso": "gb-nir",
+  "away_iso": "de",
+  "venue": "Parc des Princes, Paris"
+}, {
+  "day": 21,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "Czech Republic",
+  "away_team": "Turkey",
+  "home_iso": "cz",
+  "away_iso": "tr",
+  "venue": "Stade Bollaert-Delelis, Lens"
+}, {
+  "day": 21,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "Croatia",
+  "away_team": "Spain",
+  "home_iso": "hr",
+  "away_iso": "es",
+  "venue": "Nouveau Stade de Bordeaux, Bordeaux"
+}, {
+  "day": 22,
+  "month": 6,
+  "year": 2016,
+  "hour": 17,
+  "home_team": "Iceland",
+  "away_team": "Austria",
+  "home_iso": "is",
+  "away_iso": "at",
+  "venue": "Stade de France, Saint-Denis"
+}, {
+  "day": 22,
+  "month": 6,
+  "year": 2016,
+  "hour": 17,
+  "home_team": "Hungary",
+  "away_team": "Portugal",
+  "home_iso": "hu",
+  "away_iso": "pt",
+  "venue": "Parc Olympique Lyonnais, Lyon"
+}, {
+  "day": 22,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "Italy",
+  "away_team": "Republic of Ireland",
+  "home_iso": "it",
+  "away_iso": "ei",
+  "venue": "Stade Pierre-Mauroy, Lille"
+}, {
+  "day": 22,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "Sweden",
+  "away_team": "Belgium",
+  "home_iso": "se",
+  "away_iso": "be",
+  "venue": "Allianz Riviera, Nice"
+}, {
+  "day": 25,
+  "month": 6,
+  "year": 2016,
+  "hour": 14,
+  "home_team": "2a",
+  "away_team": "2c",
+  "home_iso": "",
+  "away_iso": "",
+  "venue": "Unknown"
+}, {
+  "day": 25,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "1d",
+  "away_team": "3b",
+  "home_iso": "",
+  "away_iso": "",
+  "venue": "Unknown"
+}, {
+  "day": 25,
+  "month": 6,
+  "year": 2016,
+  "hour": 17,
+  "home_team": "1b",
+  "away_team": "3d",
+  "home_iso": "",
+  "away_iso": "",
+  "venue": "Unknown"
+}, {
+  "day": 26,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "1f",
+  "away_team": "2e",
+  "home_iso": "",
+  "away_iso": "",
+  "venue": "Unknown"
+}, {
+  "day": 26,
+  "month": 6,
+  "year": 2016,
+  "hour": 17,
+  "home_team": "1c",
+  "away_team": "3a",
+  "home_iso": "",
+  "away_iso": "",
+  "venue": "Unknown"
+}, {
+  "day": 26,
+  "month": 6,
+  "year": 2016,
+  "hour": 14,
+  "home_team": "1e",
+  "away_team": "2d",
+  "home_iso": "",
+  "away_iso": "",
+  "venue": "Unknown"
+}, {
+  "day": 27,
+  "month": 6,
+  "year": 2016,
+  "hour": 20,
+  "home_team": "1a",
+  "away_team": "3c",
+  "home_iso": "",
+  "away_iso": "",
+  "venue": "Unknown"
+}, {
+  "day": 27,
+  "month": 6,
+  "year": 2016,
+  "hour": 17,
+  "home_team": "2b",
+  "away_team": "2f",
+  "home_iso": "",
+  "away_iso": "",
+  "venue": "Unknown"
+}]

@@ -1,0 +1,42 @@
+[
+  {
+    "email": "david.piesse@alcis.org",
+    "name": "David",
+    "password": "david11"
+  },
+  {
+    "email": "tim.buckley@alcis.org",
+    "name": "Tim",
+    "password": "tim11"
+  },
+  {
+    "email": "ed.vanzeller@alcis.org",
+    "name": "Ed",
+    "password": "ed11"
+  },
+  {
+    "email": "matt.angell@alcis.org",
+    "name": "Matt",
+    "password": "matt11"
+  },
+  {
+    "email": "lisa.moran@alcis.org",
+    "name": "Lisa",
+    "password": "lisa11"
+  },
+  {
+    "email": "marcus.polley@alcis.org",
+    "name": "Marcus",
+    "password": "marcus11"
+  },
+  {
+    "email": "francis.farrell@alcis.org",
+    "name": "Francis",
+    "password": "francis11"
+  },
+  {
+    "email": "richard.brittan@alcis.org",
+    "name": "Richard",
+    "password": "richard11"
+  }
+]

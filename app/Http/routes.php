@@ -11,10 +11,13 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+//Route::get('/', function () {
+//    return view('welcome');
+//});
+Route::get('/', 'HomeController@welcome');
 
 Route::auth();
 
-Route::get('/home', 'HomeController@index');
+Route::get('/predictions', 'PredictionController@index');
+Route::post('/predictions', ['as' => 'predictions.update', 'uses' => 'PredictionController@update']);
+Route::get('/match/{match}', ['as' => 'match.update', 'uses' => 'MatchController@updatePoints']);
