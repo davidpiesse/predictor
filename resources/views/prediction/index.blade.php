@@ -9,9 +9,12 @@
                         <div class="panel-heading">Your Predictions</div>
                         <div class="panel-body">
                             All of your predictions are below. You can only edit those matches that have not yet kicked
-                            off.<br>
+                            off.
+                            <hr>
                             <form action="{{route('predictions.update')}}" method="post">
                                 <input type="hidden" name="_token" value="<?php echo csrf_token(); ?>">
+                                <button type="submit" class="btn btn-primary">Save</button>
+                                <hr>
                                 @foreach($matches as $match)
                                     <div class="form-group">
                                         <label>

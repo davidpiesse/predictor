@@ -18,7 +18,7 @@
             <div class="row">
                 <div class="col-md-6">
                     <div class="panel panel-default">
-                        <div class="panel-heading">Current Table</div>
+                        <div class="panel-heading"><i class="fa fa-fw fa-table"></i> Current Table</div>
                         <div class="panel-body">
                             <table class="table table-striped text-center">
                                 <thead>
@@ -50,7 +50,7 @@
 
                 <div class="col-md-6">
                     <div class="panel panel-default">
-                        <div class="panel-heading">Latest Results</div>
+                        <div class="panel-heading"><i class="fa fa-fw fa-list"></i> Latest Results</div>
                         <div class="panel-body">
                             <table class="table table-striped text-center">
                                 <thead>
@@ -82,7 +82,7 @@
                     </div>
 
                     <div class="panel panel-default">
-                        <div class="panel-heading">Upcoming Matches</div>
+                        <div class="panel-heading"><i class="fa fa-fw fa-soccer-ball-o"></i> Upcoming Matches</div>
                         <div class="panel-body">
                             <table class="table table-striped text-center">
                                 <thead>
